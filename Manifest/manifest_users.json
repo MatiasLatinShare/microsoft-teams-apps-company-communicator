@@ -5,10 +5,10 @@
   "id": "148a66bb-e83d-425a-927d-09f4299a9274",
   "packageName": "com.microsoft.teams.companycommunicator",
   "developer": {
-    "name": "<<companyName>>",
-    "websiteUrl": "<<websiteUrl>>",
-    "privacyUrl": "<<privacyUrl>>",
-    "termsOfUseUrl": "<<termsOfUseUrl>>"
+    "name": "LatinShare",
+    "websiteUrl": "https://templatecomunitycommunicator.azurefd.net",
+    "privacyUrl": "https://templatecomunitycommunicator.azurefd.net",
+    "termsOfUseUrl": "https://templatecomunitycommunicator.azurefd.net"
   },
   "icons": {
     "color": "color.png",
@@ -24,7 +24,7 @@
   },
   "accentColor": "#64A2CC",
   "bots": [{
-    "botId": "<<botId>>",
+    "botId": "b2fd2111-fd2d-4bd2-a456-b241c43dee53",
     "scopes": [
       "personal",
       "team"
